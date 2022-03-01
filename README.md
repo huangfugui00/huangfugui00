@@ -5,10 +5,10 @@
 ,目前对web3.0开发感兴趣。:blush:.
 </p>
 
-🔭 Frontend : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
-🌱 Libraries : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
-👨‍💻 Backend : PHP / Laravel, CI, Node.js / Express, Python / Django
-💬 Database : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-📫 Languages : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python
+<p>🔭 Frontend : React, Next.js</p>
+<p>🌱 Libraries : Bootstrap, TailwindCSS, Material UI</p>
+<p>👨‍💻 Backend : Node.js / Express, Flask,Django</p>
+<p>💬 Database : MySQL, MongoDB</p>
+<p>📫 Languages : JavaScript, TypeScript, HTML5, CSS, Python</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huangfugui00"/>
